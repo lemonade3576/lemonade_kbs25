@@ -1,0 +1,17 @@
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
+torch-geometric==2.6.1
+transformers==4.44.2
+peft==0.15.2
+sentence-transformers==5.1.1
+llm2vec==0.2.3
+nltk==3.9.2
+numpy==2.0.1
+pandas==2.3.0
+scipy==1.13.1
+scikit-learn==1.6.1
+tqdm==4.67.1
+requests==2.32.4
+openai==2.7.2
+sentencepiece==0.2.1
