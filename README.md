@@ -1,4 +1,4 @@
-# Entity Matching with LLM Embeddings and SLM Compression
+# Weakly-Supervised Entity Matching via LLM-Guided Data Augmentation and Knowledge Transfer
 
 This repository contains code for entity matching using Large Language Model (LLM) embeddings with compression to Small Language Model (SLM) dimensions. The project supports various compression methods including autoencoder, PCA, linear projection, and knowledge distillation.
 
